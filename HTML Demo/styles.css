@@ -129,7 +129,12 @@ input {
 }
 
 .languageSelection span {
-    color: cyan;
+    color: #8ab4f8;
+    cursor: pointer;
+}
+
+.languageSelection span:hover {
+    text-decoration: underline;
 }
 
 footer {
